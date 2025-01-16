@@ -1,6 +1,4 @@
-# myNetflixClone
-A Netflix-inspired clone built using HTML and CSS, focusing on replicating the platform's design and layout.
-Netflix Clone 🎥📺
+# Netflix Clone 🎥📺
 A Netflix-inspired clone built using HTML and CSS, designed to replicate the iconic streaming platform's user interface. This project focuses on recreating the look and feel of Netflix's homepage, incorporating basic responsiveness and modern design techniques.
 
 🌟 Features:
@@ -19,3 +17,7 @@ Add new features, such as navigation menus, carousels, or animations.
 Optimize the responsiveness for various devices.
 Experiment with integrating JavaScript or backend technologies.
 Feel free to fork this project, make changes, and share your feedback. Contributions and collaborations are highly encouraged!
+
+
+Author:
+<l>Ahmed<l>
